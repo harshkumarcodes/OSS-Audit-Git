@@ -25,5 +25,6 @@ To run these scripts on a Debian/Ubuntu-based system, follow the steps below[cit
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/harshkumarcodes/OSS-Audit-Git](https://github.com/harshkumarcodes/OSS-Audit-Git)
+   git clone https://github.com/harshkumarcodes/OSS-Audit-Git
    cd OSS-Audit-Git
+   ```
